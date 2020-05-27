@@ -3,6 +3,7 @@
 This I build with the help of a tutorial and will be customising based on my requirements
 
 ## Contents
+ * React 16.13.0
  * Webpack 4.43.0
  * Babel 7.10.0
  * Jest 26.0.1
